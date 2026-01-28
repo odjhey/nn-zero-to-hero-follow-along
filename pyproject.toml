@@ -1,7 +1,7 @@
 [project]
-name = "mymakemore"
+name = "nn-zero-to-hero-follow-along"
 version = "0.1.0"
-description = "Add your description here"
+description = "Follow along Andrej Karpathy's series"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
