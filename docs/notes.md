@@ -4,3 +4,8 @@
 
 - https://blog.ezyang.com/2019/05/pytorch-internals/
 - tanh -> scales all to  -1 to 1
+- understand math below (this is basic exponents)
+  ```python
+  lre = torch.linspace(-3,0,1000)
+  lrs = 10**lre
+  ```
