@@ -1,3 +1,6 @@
 - understand this https://en.wikipedia.org/wiki/Maximum_likelihood_estimation
 - understand `log`, that for `log(x) from 0 to 1` when x is 0 then log is infinity and 1 isto 0
 - read more about exponentiation `exp(x)`, looks like it converts all numbers the +
+
+- https://blog.ezyang.com/2019/05/pytorch-internals/
+- tanh -> scales all to  -1 to 1
