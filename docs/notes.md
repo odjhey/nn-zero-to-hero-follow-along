@@ -20,3 +20,10 @@
 
 - Building makemore Part 5: Building a WaveNet
   get more comfortable with tensor dims and operations and views
+
+
+- Let's build GPT: from scratch, in code, spelled out.
+- Must reimplement own Linear and stuff for faster reading of codes
+- again, too weak/slow with matrix operations
+- B,T,C review
+- got lost in implementing the residual pathway
