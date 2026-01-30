@@ -9,3 +9,14 @@
   lre = torch.linspace(-3,0,1000)
   lrs = 10**lre
   ```
+
+- Part3 - activations, gradients, batchnorm cont https://youtu.be/P6sfmUTpUmc?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&t=4715
+  skipped some above, continue later
+  i think we'll learn about stacking linear layers alone and stuff here
+
+- look at batchnorm as "centering the dataset" during training
+
+- part4 - becomming a backprop ninja skipped, go back to this later when has more time
+
+- Building makemore Part 5: Building a WaveNet
+  get more comfortable with tensor dims and operations and views
