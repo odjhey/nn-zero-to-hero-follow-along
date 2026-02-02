@@ -29,3 +29,4 @@
 - got lost in implementing the residual pathway
 
 - this crazy to me, i don't understand https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
+- read residual blocks when haz time https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&t=5326
