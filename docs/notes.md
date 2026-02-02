@@ -27,3 +27,5 @@
 - again, too weak/slow with matrix operations
 - B,T,C review
 - got lost in implementing the residual pathway
+
+- this crazy to me, i don't understand https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
