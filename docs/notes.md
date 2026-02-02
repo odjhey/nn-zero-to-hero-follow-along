@@ -30,3 +30,8 @@
 
 - this crazy to me, i don't understand https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ
 - read residual blocks when haz time https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&t=5326
+
+### Some final thoughts
+- i somehow see mechanically, but it is still semantically vague.
+- next few steps probably includes, review matrix operations, learn more about the effects of each operations
+- find a better mental model for embedding values 
