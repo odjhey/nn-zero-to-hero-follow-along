@@ -32,6 +32,10 @@
 - read residual blocks when haz time https://youtu.be/kCc8FmEb1nY?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&t=5326
 
 ### Some final thoughts
-- i somehow see mechanically, but it is still semantically vague.
-- next few steps probably includes, review matrix operations, learn more about the effects of each operations
-- find a better mental model for embedding values 
+- i somehow see how it works mechanically, but semantically still vague, whats the semantical meaning of each layer, of each computation.
+- next few steps probably includes, review matrix operations, what each semantically mean
+- also probably find a better mental model for embedding values 
+
+### possible next steps
+- lets write smaller models, and isolate and add more visuals to possibly see clustering etc
+- possibly one (or all) from: copy/reference behaviour, induction pattern, bracket/structure tracking, semantic axis emergence, noise vs signal
